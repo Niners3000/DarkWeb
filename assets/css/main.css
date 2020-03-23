@@ -338,7 +338,7 @@ body {
 
 .l-side-nav {
     position: absolute;
-    left: 25px;
+    left: 0px;
     display: flex;
     height: 100%;
     align-items: center;
